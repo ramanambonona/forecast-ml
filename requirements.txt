@@ -6,6 +6,6 @@ statsmodels==0.14.2
 scikit-learn==1.4.2
 xgboost==2.0.3
 prophet==1.1.0
-neuralprophet==0.7.1
+neuralprophet==0.8.0
 cmdstanpy==1.2.3
 xlsxwriter
