@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+scikit-learn
+xgboost
+prophet
+neuralprophet
+pystan<3.0
+xlsxwriter
